@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\workspace\\Link_VS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A84E43B4-4F41-4840-BB43-2674093B35B4}|LInk_VS\\LInk_VS.vcxproj|C:\\Users\\hp\\Desktop\\workspace\\Link_VS\\LInk_VS\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A84E43B4-4F41-4840-BB43-2674093B35B4}|LInk_VS\\LInk_VS.vcxproj|solutionrelative:LInk_VS\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\workspace\\Link_VS\\LInk_VS\\Main.cpp",
+              "RelativeDocumentMoniker": "LInk_VS\\Main.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\workspace\\Link_VS\\LInk_VS\\Main.cpp",
+              "RelativeToolTip": "LInk_VS\\Main.cpp",
+              "ViewState": "AgIAANsCAAAAAAAAAAAAAPECAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T05:41:13.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
